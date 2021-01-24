@@ -1,0 +1,1 @@
+word_list = ['pandu', 'kumar', 'varun', 'shiva ', 'venkat', 'vishnu']
